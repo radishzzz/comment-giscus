@@ -1,2 +1,2 @@
 # comment-giscus
-Giscus omments system
+Giscus comments system
