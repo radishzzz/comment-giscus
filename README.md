@@ -1,2 +1,1 @@
-# comment-giscus
-Giscus comments system
+Giscus comment repository
